@@ -1,6 +1,6 @@
 # tinytraffic — simple, privacy-friendly web analytics (one binary, one DuckDB file, no cookies). Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/LBhORz)
 
 [tinytraffic](https://github.com/egoist/tinytraffic) (AGPL-3.0, by egoist) is a tiny self-hosted analytics server: a ~1 KB tracker,
 pageviews, outbound clicks, custom events (Plausible-compatible event format), public dashboards and an API.
